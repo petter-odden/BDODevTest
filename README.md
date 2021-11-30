@@ -16,4 +16,4 @@ For monitoring:
 3. Click "Go to console" at the top right of the page.
 4. Choose the BDO-Developer-Test project
 5. On the left hand side, under "Build", click "Firestore Database"
- NOTE: When the program is writing to the database, you may have to refresh the page in order to see the additions in real time.
+ NOTE: When the program is writing to the database, you may have to refresh the page in order to see the changes in real time.
