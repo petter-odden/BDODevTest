@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseProject", "BDODevTest\DatabaseProject.csproj", "{CBDDB639-D8AC-49C8-B523-4EC3BB71653F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApplication", "UserApplication\UserApplication.csproj", "{18BEAD9E-EE98-48B6-B940-37EAF64D7706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDDB639-D8AC-49C8-B523-4EC3BB71653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDDB639-D8AC-49C8-B523-4EC3BB71653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDDB639-D8AC-49C8-B523-4EC3BB71653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDDB639-D8AC-49C8-B523-4EC3BB71653F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BEAD9E-EE98-48B6-B940-37EAF64D7706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BEAD9E-EE98-48B6-B940-37EAF64D7706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BEAD9E-EE98-48B6-B940-37EAF64D7706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BEAD9E-EE98-48B6-B940-37EAF64D7706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B67A85B7-E30A-4183-B66F-D8E787065CF5}
+	EndGlobalSection
+EndGlobal
