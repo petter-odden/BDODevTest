@@ -1,5 +1,7 @@
 # BDODevTest
-Development test from BDO
+Development test from BDO.
+
+The program lets you fetch cryptocurrency pairs from twelvedata.com and look up their exchange rates.
 
 # How to use
 (0). Open the repo as a solution in Visual Studio
